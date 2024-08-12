@@ -26,7 +26,7 @@ body .container {
 body .container .qr {
   width: 100%;
   height: 60%;
-  background-image: url(images/image-qr-code.png);
+  background-image: url(source/images/image-qr-code.png);
   background-size: cover;
   border-radius: 10px;
 }
