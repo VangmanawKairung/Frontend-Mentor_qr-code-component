@@ -19,6 +19,7 @@ body main {
   top: 50%;
   left: 50%;
   translate: -50% -50%;
+  box-shadow: 0 0 30px rgba(123, 135, 157, 0.5);
 }
 body main img {
   width: 100%;
